@@ -1,3 +1,10 @@
+### Bem-vindo ao meu Github, Me chamo [José][http://josersn.github.io/] 👋
+
+## Sou viagante do mundo da tecnologia!
+- 🔭 Desenolverdo Web Full
+- 🤣 Apredendo tudo possivel antes que 2020 acabe comigo 
+- ⚡ Objetivo 2020 : Denselvolver projetos para comunidades
+
 ### Hi there 👋
 
 <!--
@@ -5,7 +12,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
