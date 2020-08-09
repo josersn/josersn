@@ -1,7 +1,7 @@
 ### Bem-vindo ao meu Github, Me chamo José Ramos 👋
 
 ## Sou viagante do mundo da tecnologia!
-- 🔭 Desenolverdo Web Full
+- 🔭 Desenvolvedor Web Full
 - 🤣 Apredendo tudo possivel antes que 2020 acabe comigo 
 - ⚡ Objetivo 2020 : Denselvolver projetos para comunidades
 
