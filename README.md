@@ -2,8 +2,8 @@
 
 ## Sou viagante do mundo da tecnologia!
 - 🔭 Desenvolvedor Web Full
-- 🤣 Aprendendo tudo possivel antes que 2020 acabe comigo 
-- ⚡ Objetivo 2021 : desenolver projetos para comunidades
+- 🤣 Aprendendo tudo possivel antes que 2021 acabe comigo 
+- ⚡ Objetivo 2022 : desenvolver projetos para comunidades
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://br.linkedin.com/in/josersn)
 
